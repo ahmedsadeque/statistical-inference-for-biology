@@ -12,7 +12,7 @@ keypoints:
 - "Novel technologies produce data in great complexity and scale, requiring more 
 sophisticated understanding of statistics."
 ---
-Technological changes in biomedical research drive data production in greater 
+Technologically changes in biomedical research drive data production in greater 
 quantity and complexity. High-throughput technologies, such as sequencing 
 technologies, produce data whose size and complexity require sophisticated 
 statistical skills to avoid being fooled by patterns arising by chance. In the 

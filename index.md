@@ -1,3 +1,4 @@
+#Univariate Analysis
 ---
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html

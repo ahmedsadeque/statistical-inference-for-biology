@@ -12,14 +12,14 @@ keypoints:
 - "Novel technologies produce data in great complexity and scale, requiring more 
 sophisticated understanding of statistics."
 ---
-Technologically changes in biomedical research drive data production in greater 
+In many fields of science, we require statistics to interpret our data. Biomedical research is no different and requires a data driven approach. In last decade or so technological changes in biomedical research have driven data production at a much greater 
 quantity and complexity. High-throughput technologies, such as sequencing 
 technologies, produce data whose size and complexity require sophisticated 
 statistical skills to avoid being fooled by patterns arising by chance. In the 
 past researchers would measure, for example, the transcription levels of a 
 single gene of interest. Now it is possible to measure all genes at once, often
 20,000 or more depending on the organism. Technological advances like these have
-driven a change from hypothesis to discovery-driven research. This means that 
+driven a change from hypothesis to data-driven research. This means that 
 statistics and data analysis in the life sciences are more important than ever.  
 
 This lesson will introduce the statistical concepts and data analysis skills 
@@ -34,8 +34,6 @@ include:
   * the t-test
   * confidence intervals
   * association tests
-  * permutation tests
-  * and statistical power 
   
 We make use of approximations made possible by mathematical theory, such as the 
 Central Limit Theorem, as well as techniques made possible by modern computing.

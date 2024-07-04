@@ -22,7 +22,7 @@ single gene of interest. Now it is possible to measure all genes at once, often
 driven a change from hypothesis to data-driven research. This means that 
 statistics and data analysis in the life sciences are more important than ever.  
 
-This lesson will introduce the statistical concepts and data analysis skills 
+This course will introduce the statistical concepts and data analysis skills 
 needed for success in data-driven life science research. We start with one of 
 the most important topics in statistics and in the life sciences: statistical 
 inference. Inference is the use of probability to learn population 

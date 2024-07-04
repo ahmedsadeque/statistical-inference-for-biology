@@ -13,7 +13,7 @@ how to write new episodes.
 
 ## Maintainer(s)
 
-* Sue McClatchy
+* Ahmed Sadeque
 
 ## Authors
 

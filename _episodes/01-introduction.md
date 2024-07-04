@@ -36,7 +36,6 @@ include:
   * association tests
   
 We make use of approximations made possible by mathematical theory, such as the 
-Central Limit Theorem, as well as techniques made possible by modern computing.
+Central Limit Theorem.
 
-{% include links.md %}
 
